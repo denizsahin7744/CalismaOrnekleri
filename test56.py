@@ -1,0 +1,1 @@
+print("Toplam :", int(input("1. Sayıyı Giriniz.\n>"))+int(input("2. Sayıyı Giriniz.\n>")))
